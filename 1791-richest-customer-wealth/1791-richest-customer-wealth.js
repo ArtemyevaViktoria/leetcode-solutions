@@ -3,7 +3,7 @@
  * @return {number}
  */
 var maximumWealth = function(accounts) {
-    currentMaxSumm = 0;
+    let currentMaxSumm = 0;
 
     accounts.forEach((arr) => {
         let sum = arr.reduce((sum, current) => {
