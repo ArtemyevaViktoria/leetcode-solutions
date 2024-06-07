@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1454-remove-palindromic-subsequences](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1454-remove-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 # Hash Table
 |  |
@@ -26,3 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
+# Two Pointers
+|  |
+| ------- |
+| [1454-remove-palindromic-subsequences](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1454-remove-palindromic-subsequences) |
