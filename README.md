@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1656-count-good-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3429-special-array-i](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3429-special-array-i) |
@@ -46,3 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1823-determine-if-string-halves-are-alike) |
+# Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1656-count-good-triplets) |
