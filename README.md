@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0822-unique-morse-code-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
 | [1656-count-good-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3429-special-array-i](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3429-special-array-i) |
 # String
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0822-unique-morse-code-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
+| [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 # Sorting
 |  |
@@ -38,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1454-remove-palindromic-subsequences](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1454-remove-palindromic-subsequences) |
+| [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 # Stack
 |  |
 | ------- |
@@ -54,3 +57,4 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1656-count-good-triplets) |
+| [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
