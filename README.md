@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0822-unique-morse-code-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
+| [1646-kth-missing-positive-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -60,3 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1656-count-good-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
+# Binary Search
+|  |
+| ------- |
+| [1646-kth-missing-positive-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
