@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1454-remove-palindromic-subsequences](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1454-remove-palindromic-subsequences) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 # Hash Table
 |  |
 | ------- |
