@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0822-unique-morse-code-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1646-kth-missing-positive-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1656-count-good-triplets) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0822-unique-morse-code-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1454-remove-palindromic-subsequences](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1454-remove-palindromic-subsequences) |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Two Pointers
 |  |
 | ------- |
+| [0841-shortest-distance-to-a-character](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1454-remove-palindromic-subsequences](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1454-remove-palindromic-subsequences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 # Stack
