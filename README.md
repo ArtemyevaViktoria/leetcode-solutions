@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3429-special-array-i](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3429-special-array-i) |
 # String
@@ -79,3 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1646-kth-missing-positive-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
+# Greedy
+|  |
+| ------- |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
