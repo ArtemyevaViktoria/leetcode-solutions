@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3429-special-array-i](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3429-special-array-i) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1823-determine-if-string-halves-are-alike](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 # Hash Table
 |  |
 | ------- |
