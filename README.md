@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2210-find-target-indices-after-sorting-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2476-check-distances-between-same-letters](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2476-check-distances-between-same-letters) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1823-determine-if-string-halves-are-alike](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2476-check-distances-between-same-letters](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2476-check-distances-between-same-letters) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 # Hash Table
 |  |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1848-sum-of-unique-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2476-check-distances-between-same-letters](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2476-check-distances-between-same-letters) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 # Sorting
 |  |
