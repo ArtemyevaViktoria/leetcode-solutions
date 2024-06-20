@@ -92,4 +92,9 @@ Collection of LeetCode questions to ace the coding interview!
 # Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+# Math
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1448-maximum-69-number) |
