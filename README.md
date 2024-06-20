@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1848-sum-of-unique-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2331-intersection-of-multiple-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2476-check-distances-between-same-letters](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2476-check-distances-between-same-letters) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0822-unique-morse-code-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1848-sum-of-unique-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
+| [2331-intersection-of-multiple-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2476-check-distances-between-same-letters](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2476-check-distances-between-same-letters) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2331-intersection-of-multiple-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 # Two Pointers
 |  |
@@ -75,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
+| [2331-intersection-of-multiple-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 # Enumeration
 |  |
 | ------- |
