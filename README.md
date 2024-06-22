@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0822-unique-morse-code-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1848-sum-of-unique-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Binary Search
 |  |
 | ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 # Greedy
@@ -101,3 +104,11 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1448-maximum-69-number) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+# Matrix
+|  |
+| ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
