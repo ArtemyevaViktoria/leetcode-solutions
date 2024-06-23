@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1848-sum-of-unique-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
+| [2159-two-out-of-three](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2159-two-out-of-three) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0822-unique-morse-code-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1848-sum-of-unique-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
+| [2159-two-out-of-three](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2159-two-out-of-three) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -112,3 +114,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+# Bit Manipulation
+|  |
+| ------- |
+| [2159-two-out-of-three](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2159-two-out-of-three) |
