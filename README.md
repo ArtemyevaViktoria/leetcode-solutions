@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2447-merge-similar-items](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2476-check-distances-between-same-letters) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2447-merge-similar-items](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2476-check-distances-between-same-letters) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 # Sorting
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2447-merge-similar-items](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2447-merge-similar-items) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 # Two Pointers
 |  |
@@ -123,3 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2159-two-out-of-three](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2159-two-out-of-three) |
+# Ordered Set
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2447-merge-similar-items) |
