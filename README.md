@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2365-percentage-of-letter-in-string](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2365-percentage-of-letter-in-string) |
 | [2476-check-distances-between-same-letters](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2476-check-distances-between-same-letters) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 # Hash Table
