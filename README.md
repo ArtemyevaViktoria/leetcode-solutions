@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2476-check-distances-between-same-letters) |
+| [2502-sort-the-people](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2365-percentage-of-letter-in-string) |
 | [2476-check-distances-between-same-letters](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2476-check-distances-between-same-letters) |
+| [2502-sort-the-people](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 # Hash Table
 |  |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2442-number-of-arithmetic-triplets](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2476-check-distances-between-same-letters) |
+| [2502-sort-the-people](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 # Sorting
 |  |
@@ -71,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2210-find-target-indices-after-sorting-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2447-merge-similar-items](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2447-merge-similar-items) |
+| [2502-sort-the-people](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 # Two Pointers
 |  |
