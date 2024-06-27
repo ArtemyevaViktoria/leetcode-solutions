@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2447-merge-similar-items](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2650-split-with-minimum-sum](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2650-split-with-minimum-sum) |
 # Two Pointers
 |  |
 | ------- |
@@ -114,11 +115,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1448-maximum-69-number) |
+| [2650-split-with-minimum-sum](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2650-split-with-minimum-sum) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 # Math
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1448-maximum-69-number) |
+| [2650-split-with-minimum-sum](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2650-split-with-minimum-sum) |
 # Heap (Priority Queue)
 |  |
 | ------- |
