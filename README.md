@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0841-shortest-distance-to-a-character](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1454-remove-palindromic-subsequences](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1454-remove-palindromic-subsequences) |
