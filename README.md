@@ -141,3 +141,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2447-merge-similar-items) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3221-find-the-peaks) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3221-find-the-peaks) |
+<!---LeetCode Topics End-->
