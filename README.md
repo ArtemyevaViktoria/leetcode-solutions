@@ -151,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3221-find-the-peaks) |
+## String
+|  |
+| ------- |
+| [1156-occurrences-after-bigram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1156-occurrences-after-bigram) |
 <!---LeetCode Topics End-->
