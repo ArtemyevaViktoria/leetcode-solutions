@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [3221-find-the-peaks](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3221-find-the-peaks) |
 ## Enumeration
 |  |
@@ -155,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1156-occurrences-after-bigram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1156-occurrences-after-bigram) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
