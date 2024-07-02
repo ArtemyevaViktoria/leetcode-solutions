@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1156-occurrences-after-bigram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1156-occurrences-after-bigram) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
 |  |
 | ------- |
