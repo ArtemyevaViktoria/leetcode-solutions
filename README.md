@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [3221-find-the-peaks](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3221-find-the-peaks) |
 ## Enumeration
 |  |
@@ -161,4 +162,20 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
