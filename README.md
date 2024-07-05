@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3221-find-the-peaks](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3221-find-the-peaks) |
 ## Enumeration
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,4 +182,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
