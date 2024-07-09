@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3221-find-the-peaks](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3221-find-the-peaks) |
 | [3321-type-of-triangle](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3321-type-of-triangle) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1156-occurrences-after-bigram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1156-occurrences-after-bigram) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
@@ -193,4 +195,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3321-type-of-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
