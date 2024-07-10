@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1156-occurrences-after-bigram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1156-occurrences-after-bigram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2886-faulty-keyboard](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
+| [2886-faulty-keyboard](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
