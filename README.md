@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1156-occurrences-after-bigram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1156-occurrences-after-bigram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2886-faulty-keyboard) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [2886-faulty-keyboard](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 ## Heap (Priority Queue)
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [3321-type-of-triangle](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
