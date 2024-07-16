@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [1127-last-stone-weight](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1137-height-checker](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [1137-height-checker](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3321-type-of-triangle](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3321-type-of-triangle) |
 ## Two Pointers
@@ -219,4 +221,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
