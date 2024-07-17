@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3221-find-the-peaks](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3221-find-the-peaks) |
 | [3321-type-of-triangle](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3321-type-of-triangle) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -179,10 +180,12 @@ Collection of LeetCode questions to ace the coding interview!
 | [1137-height-checker](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3321-type-of-triangle](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3321-type-of-triangle) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
