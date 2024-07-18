@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [1127-last-stone-weight](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1127-last-stone-weight) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [2427-first-letter-to-appear-twice](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Matrix
