@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3321-type-of-triangle](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3321-type-of-triangle) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |
