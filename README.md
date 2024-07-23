@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1156-occurrences-after-bigram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1156-occurrences-after-bigram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0412-fizz-buzz](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 ## Heap (Priority Queue)
 |  |
@@ -238,4 +240,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1137-height-checker) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
