@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3221-find-the-peaks](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3221-find-the-peaks) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0412-fizz-buzz](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
+| [2639-separate-the-digits-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 ## Heap (Priority Queue)
