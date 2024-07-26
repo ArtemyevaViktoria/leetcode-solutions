@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0412-fizz-buzz](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3321-type-of-triangle](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -249,4 +251,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
