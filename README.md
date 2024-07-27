@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -255,4 +256,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
