@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1127-last-stone-weight](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3321-type-of-triangle](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3321-type-of-triangle) |
@@ -260,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Greedy
+|  |
+| ------- |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
