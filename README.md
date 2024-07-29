@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0500-keyboard-row](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1156-occurrences-after-bigram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1156-occurrences-after-bigram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
