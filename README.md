@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0500-keyboard-row](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1156-occurrences-after-bigram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1156-occurrences-after-bigram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2427-first-letter-to-appear-twice](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2886-faulty-keyboard) |
@@ -269,4 +270,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 <!---LeetCode Topics End-->
