@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3221-find-the-peaks](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3221-find-the-peaks) |
 | [3321-type-of-triangle](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3321-type-of-triangle) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Enumeration
 |  |
