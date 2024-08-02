@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1156-occurrences-after-bigram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1156-occurrences-after-bigram) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
