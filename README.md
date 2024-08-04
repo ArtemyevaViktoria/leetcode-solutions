@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1156-occurrences-after-bigram](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1156-occurrences-after-bigram) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0861-flipping-an-image](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
