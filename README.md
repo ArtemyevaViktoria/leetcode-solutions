@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2844-sum-of-squares-of-special-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3221-find-the-peaks](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3221-find-the-peaks) |
+| [3311-ant-on-the-boundary](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2639-separate-the-digits-in-an-array](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2886-faulty-keyboard) |
+| [3311-ant-on-the-boundary](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -280,4 +282,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+## Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
