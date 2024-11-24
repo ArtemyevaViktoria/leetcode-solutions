@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0500-keyboard-row) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ArtemyevaViktoria/leetcode-solutions/tree/master/0792-binary-search) |
 ## Greedy
